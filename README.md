@@ -55,28 +55,6 @@ Building scalable web applications, AI-powered products, and data-driven solutio
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AJAIN2104&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AJAIN2104&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AJAIN2104&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 ### 🌊 HydroVision
@@ -117,7 +95,7 @@ MongoDB • Email Integration • REST APIs
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/akshayjain2104/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
@@ -125,7 +103,7 @@ MongoDB • Email Integration • REST APIs
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:aj7037238644@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
